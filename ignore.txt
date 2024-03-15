@@ -1,8 +1,0 @@
-# node_modules/
-# package-lock.json
-
-
-# all other ignore list
-sw.*
-workbox-*
-swe-worker-*

@@ -1,0 +1,11 @@
+node_modules/
+package-lock.json
+
+.next/
+.next/server/
+
+
+# all other ignore list
+sw.*
+workbox-*
+swe-worker-*

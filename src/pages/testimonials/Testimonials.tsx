@@ -52,7 +52,7 @@ export default function Testimonials() {
                         </div>
                       </div>
                       <p className="text-lg text-gray-600 mb-4">
-                        "{testimonial.comment}"
+                        {testimonial.comment}
                       </p>
                       <div className="text-center">
                         <p className="text-gray-800 font-semibold">
