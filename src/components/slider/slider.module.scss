@@ -2,7 +2,7 @@
   .container {
     // margin: 0 -6rem;
     width: 100vw;
-    max-width: 1905px;
+    max-width: calc(100vw - 15px) ;
   }
 
   .fronSlider {

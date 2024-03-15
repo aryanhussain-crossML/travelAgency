@@ -3,6 +3,7 @@ package-lock.json
 
 .next/
 .next/server/
+.next/cache/
 
 
 # all other ignore list

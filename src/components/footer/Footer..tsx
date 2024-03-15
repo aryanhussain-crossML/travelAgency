@@ -12,7 +12,7 @@ export default function Footer() {
               </a>
               <p className="mt-2">Making your travel dreams a reality.</p>
             </div>
-            <div className="flex justify-between space-x-4">
+            <div className="flex flex-col  justify-between space-x-4 md:flex-row">
               <div className="mb-6 lg:mb-0">
                 <h3 className="uppercase font-semibold mb-2">Quick Links</h3>
                 <ul>
