@@ -1,0 +1,20 @@
+#fontSlider {
+  .container {
+    // margin: 0 -6rem;
+    width: 100vw;
+    max-width: 1905px;
+  }
+
+  .fronSlider {
+    .imgContainerSlider {
+      height: 500px;
+      width: 100%;
+
+      img {
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+}
